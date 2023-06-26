@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=East+Sea+Dokdo&family=Nunito+Sans:wght@300&family=Rubik+Spray+Paint&family=Titillium+Web:ital,wght@0,300;1,300&display=swap');
 
+
 body{
     box-sizing: border-box;
     overflow-x: hidden;
@@ -313,6 +314,10 @@ text-decoration: none;
     transition: all 0.5s ease-in-out;
 }
 
+.trailP{ 
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
 .contact p{
     color: rgb(255, 255, 255);
 }

@@ -1,5 +1,5 @@
 import styles from "./styles.module.css";
-import developer from "../img/resumeENGLISH.pdf";
+import developer from "../img/Developer.pdf";
 
 export default function About() {
 

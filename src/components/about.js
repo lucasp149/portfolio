@@ -9,7 +9,7 @@ export default function About() {
             <div className={styles.center}>
                 <div>
                     <h1>About Me</h1>
-                    <p>I'm from Argentina. A eternal student. A team worker. A experienced entrepreneur and a challenge seeker. You can check my experience
+                    <p>I'm from Argentina. An eternal student. A team worker. An experienced entrepreneur and a challenge seeker. You can check my experience
                         and all my works over time.
                     </p>
                    <a href={developer} target="_blank"> <button className={styles.download}>Download CV</button></a>

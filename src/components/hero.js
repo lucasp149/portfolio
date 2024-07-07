@@ -17,13 +17,11 @@ export default function Hero(){
             <div className={styles.left}>
                 
                     <ul className={styles.lista}>
-                        <h3>Experienced in</h3>
+                        <h3>Front end</h3>
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>JavaScript</li>
                         <li>REACT</li>
-                        <li>GitHub</li>
-                        <li>SCRUM</li>
                         <li>API rest</li>
                         <h3>Something of</h3>
                         <li>Python</li>
@@ -37,13 +35,16 @@ export default function Hero(){
             </div>
             <div className={styles.right}>
             <ul className={styles.lista}>
-                        <h3>Working on</h3>
-                        <li>Salesforce</li>
-                        <li>APEX</li>
-                        <li>Lightning Components</li>
+                        <h3>QA Automation</h3>
+                        <li>JAVA</li>
+                        <li>MySql</li>
+                        <li>Selenium</li>
+                        <li>TestNG</li>
+                        <li>Apium</li>
                         
-                        <h3>Specializing on</h3>
-                        <li>Data Analytics</li>
+                        <h3>Methodologies</h3>
+                        <li>Agile / Scrum / Kanban</li>
+                        <li>Git / Github</li>
                         
                     </ul>
             </div>

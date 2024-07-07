@@ -9,6 +9,6 @@ My personal logo on https://face.co/ <br />
 
 ## List of imporovements:
 
-- Bigger Hero (maybe merge with About Me)
-- Both Spanish / English
-- OnClick to projects
+- Bigger Hero (maybe merge with About Me) DONE.
+- Both Spanish / English. DONE
+- OnClick to projects. DONE.
